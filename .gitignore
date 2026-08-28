@@ -1,0 +1,36 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# Catalog databases (rebuilt from turath.io)
+*.db
+
+# PDF cache
+*.pdf
+
+# Temporary files
+*.tmp
+*.part
+
+# Font files (downloaded by setup_font.py)
+amiri_font/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
